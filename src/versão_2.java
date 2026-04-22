@@ -1,0 +1,8 @@
+void main() {
+
+    int i = 0;
+    do {
+        IO.println("Olá turma!!!");
+        i++;
+    }  while (i <= 9);
+}
